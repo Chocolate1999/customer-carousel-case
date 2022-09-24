@@ -24,6 +24,12 @@ a demo for customer carousel case use swiper and slick.
 
 
 
+https://user-images.githubusercontent.com/61035508/192106016-2179cd11-4665-4716-a9a2-e030107a4c32.mov
+
+
+
+
+
 ## 🪴 Project Activity
 
 ![Alt](https://repobeats.axiom.co/api/embed/c93150210b4692229efe8ed3d5a6f3a3a9eaa0fb.svg "Repobeats analytics image")
