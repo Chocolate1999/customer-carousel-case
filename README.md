@@ -20,12 +20,6 @@ a demo for customer carousel case use swiper and slick.
 
 ![Alt](https://repobeats.axiom.co/api/embed/c93150210b4692229efe8ed3d5a6f3a3a9eaa0fb.svg "Repobeats analytics image")
 
-## 🧑‍💻 Contribution
-
-Thank you to all the people who already contributed to my project!
-
-<a href="https://github.com/Chocolate1999/customer-carousel-case/graphs/contributors"><img src="https://github.com/Chocolate1999/customer-carousel-case/blob/main/CONTRIBUTORS.svg" /></a>
-
 ## 📄 License
 
 [MIT License](https://github.com/Chocolate1999/customer-carousel-case/blob/main/LICENSE) © 2022-PRESENT [Chocolate](https://github.com/Chocolate1999)
