@@ -1,4 +1,5 @@
-import Home from './pages'
+import Home from '@/pages'
+import '@/styles/globals.css'
 
 const App = () => {
   return <Home />

@@ -1,3 +1,4 @@
+import SlickCard from '@/components/slickCard'
 import SwiperCard from '@/components/swiperCard'
 import { clsxm } from '@/utils'
 import style from './style.module.css'
@@ -9,6 +10,7 @@ const Home = () => {
         customer carousel case
       </p>
       <SwiperCard />
+      <SlickCard />
     </div>
   )
 }

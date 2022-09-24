@@ -1,0 +1,30 @@
+/* slick reset css */
+
+.slick-dots {
+  display: flex !important;
+  justify-content: center !important;
+  flex-flow: wrap !important;
+  max-width: 850px !important;
+  position: relative !important;
+  margin: 0 auto !important;
+  margin-top: 96px !important;
+  padding-bottom: 30px !important;
+}
+
+.slick-dots li {
+  width: 200px !important;
+  height: 56px !important;
+}
+
+.slick-slider {
+  overflow: hidden !important;
+}
+
+.slick-list {
+  padding-top: 40px !important;
+  overflow: unset !important;
+}
+
+.slider_wrapper .slick_center div {
+  transform: scale(1.08) !important;
+}

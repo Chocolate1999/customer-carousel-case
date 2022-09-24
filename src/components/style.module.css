@@ -1,11 +1,96 @@
-
+/* swiper css */
 .swiper {
-  padding-bottom: 120px;
+  padding-bottom: 120px !important;
 }
 
 .swiper_slide {
-  width: 300px;
-  height: 300px;
-  border-radius: 8px;
+  width: 300px !important;
+  height: 300px !important;
+  border-radius: 8px !important;
   border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+/* slick css */
+.card_container {
+  width: fit-content !important;
+}
+.scale_card {
+  transform: scale(1.125) !important;
+  transition: 0.5s;
+}
+
+.filter_gray {
+  filter: grayscale(100%);
+  opacity: 0.3;
+}
+
+.isShow {
+  filter: none;
+  opacity: 1;
+}
+
+/* card */
+.card_title {
+  font-family: 'PingFang SC';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.card_desc {
+  font-family: 'PingFang SC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.card_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 26px;
+  gap: 10px;
+  width: 116px;
+  height: 48px;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(5px);
+  border-radius: 130px;
+}
+
+.card_button:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.button_text {
+  font-family: 'PingFang SC';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.slick-list {
+  overflow: unset !important;
+}
+
+.card_bg_odd {
+  background: linear-gradient(
+    180.08deg,
+    rgba(37, 174, 191, 0.2) 0.07%,
+    rgba(37, 173, 191, 0.8) 27.34%,
+    #25adbf 54.06%,
+    #25adbf 99.94%,
+    #25adbf 99.94%
+  );
+}
+
+.card_bg_even {
+  background: linear-gradient( 120deg, #bd34fe 30%, #41d1ff );
 }
