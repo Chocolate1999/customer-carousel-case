@@ -1,0 +1,12 @@
+.title_bg {
+  font-family: 'M Ying Hei PRC';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 72px;
+  letter-spacing: 0.5px;
+  background: linear-gradient(99.45deg, #2d61fc 5.47%, #cb5bff 88.9%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

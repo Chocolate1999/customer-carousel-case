@@ -1,3 +1,6 @@
-export function classNames(...classes: unknown[]): string {
-  return classes.filter(Boolean).join(' ')
+import clsx, { ClassValue } from 'clsx';
+import { twMerge } from 'tailwind-merge';
+
+export  function clsxm(...classes: ClassValue[]) {
+  return twMerge(clsx(...classes));
 }
