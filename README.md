@@ -1,72 +1,31 @@
-# React Tailwindcss Boilerplate build with Vite
+<h1 align="center">customer-carousel-case</h1>
 
-This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
+<p align="center">
+a demo for customer carousel case use swiper and slick.
+</p>
 
-## What is inside?
 
-This project uses many tools like:
+<p align="center">
+ 🧑‍💻👩‍💻👨‍💻
+</p>
 
-- [ReactJS](https://reactjs.org)
-- [Vite](https://vitejs.dev)
-- [TypeScript](https://www.typescriptlang.org)
-- [Jest](https://jestjs.io)
-- [Testing Library](https://testing-library.com)
-- [Tailwindcss](https://tailwindcss.com)
-- [Eslint](https://eslint.org)
-- [Prettier](https://prettier.io)
+## 🦄 Tech Stack
 
-## Getting Started
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom user interfaces.
+- [React 18.x](https://reactjs.org/) - A JavaScript library for building user interfaces.
+- [swiper/react](https://swiperjs.com/react) - Swiper React Components
+- [slick](https://kenwheeler.github.io/slick/) - The last carousel you'll ever need
 
-### Install
+## 🪴 Project Activity
 
-Create the project.
+![Alt](https://repobeats.axiom.co/api/embed/c93150210b4692229efe8ed3d5a6f3a3a9eaa0fb.svg "Repobeats analytics image")
 
-```bash
-npx degit joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate my-app
-```
+## 🧑‍💻 Contribution
 
-Access the project directory.
+Thank you to all the people who already contributed to my project!
 
-```bash
-cd my-app
-```
+<a href="https://github.com/Chocolate1999/customer-carousel-case/graphs/contributors"><img src="https://github.com/Chocolate1999/customer-carousel-case/blob/main/CONTRIBUTORS.svg" /></a>
 
-Install dependencies.
+## 📄 License
 
-```bash
-pnpm install
-```
-
-Serve with hot reload at <http://localhost:5173>.
-
-```bash
-pnpm run dev
-```
-
-### Lint
-
-```bash
-pnpm run lint
-```
-
-### Typecheck
-
-```bash
-pnpm run typecheck
-```
-
-### Build
-
-```bash
-pnpm run build
-```
-
-### Test
-
-```bash
-pnpm run test
-```
-
-## License
-
-This project is licensed under the MIT License.
+[MIT License](https://github.com/Chocolate1999/customer-carousel-case/blob/main/LICENSE) © 2022-PRESENT [Chocolate](https://github.com/Chocolate1999)
