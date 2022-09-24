@@ -22,7 +22,11 @@ a demo for customer carousel case use swiper and slick.
 ![image](https://user-images.githubusercontent.com/61035508/192104725-01810eb4-3ec7-42b8-9e40-2a5c9af24e32.png)
 
 
+> autoplay
 
+https://user-images.githubusercontent.com/61035508/192106049-529fa028-df35-405f-a788-81bfda819d28.mov
+
+> click support
 
 https://user-images.githubusercontent.com/61035508/192106016-2179cd11-4665-4716-a9a2-e030107a4c32.mov
 
