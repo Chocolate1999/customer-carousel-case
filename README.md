@@ -9,6 +9,17 @@ a demo for customer carousel case use swiper and slick.
  🧑‍💻👩‍💻👨‍💻
 </p>
 
+## ⚡️ bilibili
+
+ <a href="https://space.bilibili.com/351534170"><img src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D351534170" />
+
+
+
+> bilibili video has been published ↓
+
+[【编程】前端客户案例轮播图 | swiper/react | slick.js | 官网必备实践开发](https://www.bilibili.com/video/BV1CW4y1Y7YY/)
+
+
 ## 🦄 Tech Stack
 
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom user interfaces.
